@@ -8,7 +8,7 @@ bagC = 19
 
 # Part 1: Combine the haul
 total_candy = bagA + bagB + bagC
-print(output("Total candy collected: "))
+print(f"Total candy collected: {total_candy}")
 
 # Part 2: Fair sharing (include yourself)
 # TODO update people  to include yourself.
